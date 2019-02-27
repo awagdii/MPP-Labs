@@ -1,4 +1,3 @@
-package lab3.prob4;
 
 public class Condo implements Property {
 	
