@@ -15,7 +15,7 @@ public class LandLord {
         ownedBuildings.add(building);
     }
 
-    public double calculateProfit() {
+    public double calculateTotalProfit() {
         double result = 0.0;
         for (Building building : ownedBuildings
         ) {

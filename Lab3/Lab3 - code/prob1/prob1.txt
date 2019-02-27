@@ -1,0 +1,3 @@
+a. Because "p2" is an instance of "Person" not an instance of "PersonWithJob", 
+So in the equals() function of PersonWithJob will return false when judge if the parameter is an instance of PersonWithJob.
+PersonWithJob is inheritance from Person, so "p1" is also an instance of "Person". It will return true as expected.

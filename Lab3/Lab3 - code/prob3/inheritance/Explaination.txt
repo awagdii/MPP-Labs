@@ -1,0 +1,9 @@
+NO we shouldn't use inheritence here and below is the clarification :
+
+Same as the current package implementation: the Cylinder-Circle Problem :
+package :  inheritance.Test1
+the problem here is the circle can access computeVolumn of the Parent Cylinder
+Object which is not related to the circle behaviour,
+composition solved the problem by having the right structure
+to compute the volume of the cylinder meanwhile the circle cannot access this method by itself
+Please check Package : Compostion.Test2

@@ -13,6 +13,6 @@ public class Main {
 
         landLord.addBuilding(building);
 
-        System.out.println(landLord.calculateProfit());
+        System.out.println(landLord.calculateTotalProfit());
     }
 }
