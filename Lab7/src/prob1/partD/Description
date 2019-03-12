@@ -1,0 +1,1 @@
+We should remove the isVisted check from equals and hashCode methods because both employees are equals if the name and salary are the same

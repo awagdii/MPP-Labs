@@ -1,0 +1,1 @@
+since we are using HashMap in removeDuplicates Function we should overwrite the hashCode Method.

@@ -1,0 +1,2 @@
+We should overwrite the equals method (from Object Class) in Employee to avoid wrong result while calling it in ArrayList Class in (Contains Method)
+we should follow the equals method signature which receive an Object not Employee
